@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ This\ "Node"\ holds\ 'myValue'\ which\ is\ a\ ptr\ to\ an\ object,\ and\ a\ ptr\ to\r\n\ the\ next\ Node\ in\ the\ ArrayList.\r\n
+comment1.params=
+comment1.target=Node()
+comment1.text=Constructor\ for\ objects\ of\ class\ Node
+comment2.params=x
+comment2.target=Node(java.lang.Object)
+comment3.params=n
+comment3.target=void\ setNext(Node)
+comment4.params=x
+comment4.target=void\ setMyValue(java.lang.Object)
+comment5.params=x
+comment5.target=void\ setMyValueObject(java.lang.Object)
+comment6.params=
+comment6.target=Node\ getNext()
+comment7.params=
+comment7.target=java.lang.String\ getMyValue()
+comment8.params=
+comment8.target=java.lang.Object\ getMyValueObject()
+numComments=9
